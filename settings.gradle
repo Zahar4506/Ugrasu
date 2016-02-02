@@ -1,0 +1,1 @@
+include ':app', ':1module', ':p0041basicviews', ':p0051layoutfiles', ':myapplication', ':myapplication'
